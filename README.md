@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi👋, I'm [Shaganashree P L](https://Shaganashree97.github.io)
+# Hi👋, I'm [Shaganashree P L](https://github.com/Shaganashree97)
   
 ## ✨Web Developer✨
 
