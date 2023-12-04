@@ -28,6 +28,16 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 <a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
 <a href="https://www.instagram.com/_.sha._shree_97_pl_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
 
+<div>
+
+  <b style="font-align:center">My GitHub Stats</b>
+
+<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-stats.vercel.app/api?username=Shaganashree97&show_icons=true&hide=&count_private=true&title_color=b50cc4&text_color=ffffff&icon_color=b50cc4&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shaganashree's GitHub stats" /></a>
+
+<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=ffffff&background=1c1917&ring=b50cc4&fire=b50cc4&currStreakNum=ffffff&currStreakLabel=b50cc4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+</div>
+
 </div>
 
 <!--
