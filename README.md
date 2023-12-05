@@ -15,18 +15,20 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
 ### Languages and Tools
  
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45"/>
  
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="45"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="45"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="45"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="45"/>
  
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="45"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="45"/>
+ 
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45"/>
+ 
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" width="45"/>
 
 <div>
 
@@ -39,10 +41,10 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 </div>
 
 ### Reach out to me
-<a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" height="40" /></a>
-<a href="https://github.com/Shaganashree97/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" /></a>
-<a href="https://www.instagram.com/_.sha._shree_97_pl_/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="40" height="40" /></a>
-<a href="https://stackoverflow.com/users/22988628/shaganashree-p-l" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" /></a>
+<a href="https://github.com/Shaganashree97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40" height="40" /></a>
+<a href="https://www.instagram.com/_.sha._shree_97_pl_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" height="40" /></a>
+<a href="https://stackoverflow.com/users/22988628/shaganashree-p-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="40" height="40" /></a>
 </div>
 
 <!--
