@@ -34,9 +34,9 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/Shaganashree97" style="font-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Shaganashree97&show_icons=true&hide=&count_private=true&title_color=bf11aa&text_color=9e9ede&icon_color=bf11aa&bg_color=32012C&hide_border=true&show_icons=true" alt="Shaganashree's GitHub stats" /></a>
+<a href="http://www.github.com/Shaganashree97" style="font-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Shaganashree97&show=prs_merged,prs_merged_percentage&hide=&count_private=true&title_color=bf11aa&text_color=9e9ede&icon_color=5757cf&theme=transparent&border_color=bf11aa&show_icons=true" alt="Shaganashree's GitHub stats" /></a>
 
-<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=ddde99&background=32012C&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&hide_border=true" /></a>
+<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=bf11aa&theme=transparent&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&border=bf11aa" /></a>
 
 </div>
 
