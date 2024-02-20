@@ -19,7 +19,6 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45"/>
  
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45"/>
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="45"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="45"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="45"/>
  
@@ -28,7 +27,6 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45"/>
  
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="45"/>
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" width="45"/>
 
 <div>
 
@@ -37,8 +35,10 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 <a href="http://www.github.com/Shaganashree97" style="font-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Shaganashree97&show=prs_merged,prs_merged_percentage&hide=&count_private=true&title_color=bf11aa&text_color=9e9ede&icon_color=5757cf&theme=transparent&border_color=bf11aa&show_icons=true" alt="Shaganashree's GitHub stats" /></a>
 
 <a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=bf11aa&theme=transparent&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&border=bf11aa" /></a>
-
+  
 </div>
+
+  ![Shaganashree97's Trophies](https://github-profile-trophy.vercel.app/?username=Shaganashree97&rank=-B&column=-1&no-frame=false&margin-w=10)
 
 ### Reach out to me
 <a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" /></a>
