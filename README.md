@@ -43,7 +43,7 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 ### Reach out to me
 <a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" /></a>
 <a href="https://github.com/Shaganashree97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40" height="40" /></a>
-<a href="https://www.instagram.com/_.sha._shree_97_pl_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" height="40" /></a>
+<a href="https://www.instagram.com/_shag_ana_97_.pl._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" height="40" /></a>
 <a href="https://stackoverflow.com/users/22988628/shaganashree-p-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="40" height="40" /></a>
 </div>
 
