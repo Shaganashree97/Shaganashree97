@@ -37,6 +37,8 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 <a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=bf11aa&theme=transparent&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&border=bf11aa" /></a>
   
 </div>
+  
+<a href="https://github.com/Shaganashree97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaganashree97&langs_count=10&title_color=bf11aa&text_color=9e9ede&show_icons=true&icon_color=5757cf&theme=transparent&border_color=bf11aa&locale=en&sideNums=5757cf&custom_title=Top%20%Languages&margin-w=30" alt="Top Languages" /></a>
 
   ![Shaganashree97's Trophies](https://github-profile-trophy.vercel.app/?username=Shaganashree97&rank=-B&column=-1&no-frame=false&margin-w=10)
 
