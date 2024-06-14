@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi👋, I'm [Shaganashree P L](https://github.com/Shaganashree97)😄
+# Hey👋🏻, I'm [Shaganashree P L](https://github.com/Shaganashree97)😊
   
-## ✨Web Developer✨
+## ⭐Web Developer👩🏻‍💻
 
 I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledge and applying it in real-world projects. My fascination with technology and coding started with a deep curiosity about the inner workings of the digital world.
 
-### About Me🌱
+### About Me😇
 <div align="left">
 - I'm a CSE student at Kumaraguru College of Technology. <br>
 - I'm continuously exploring new tech stacks. <br>
@@ -30,7 +30,7 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
 <div>
 
-### My GitHub Stats
+### My GitHub Stats🪄
 
 <a href="http://www.github.com/Shaganashree97" style="font-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Shaganashree97&show=prs_merged,prs_merged_percentage&hide=&count_private=true&title_color=bf11aa&text_color=9e9ede&icon_color=5757cf&theme=transparent&border_color=bf11aa&show_icons=true" alt="Shaganashree's GitHub stats" /></a>
 
@@ -42,7 +42,7 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
   ![Shaganashree97's Trophies](https://github-profile-trophy.vercel.app/?username=Shaganashree97&rank=-B&column=-1&no-frame=false&margin-w=10)
 
-### Reach out to me
+### Reach out to me💌
 <a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" /></a>
 <a href="https://github.com/Shaganashree97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40" height="40" /></a>
 <a href="https://www.instagram.com/_shag_ana_97_.pl._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" height="40" /></a>
