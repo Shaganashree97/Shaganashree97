@@ -18,7 +18,6 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="45"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45"/>
  
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="45"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="45"/>
  
