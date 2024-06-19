@@ -8,9 +8,9 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
 ### About Me😇
 <div align="left">
-- I'm a CSE student at Kumaraguru College of Technology. <br>
-- I'm continuously exploring new tech stacks. <br>
-- I'm good at developing and designing the websites. <br>
+ 🎓 I'm a CSE student at Kumaraguru College of Technology. <br>
+ 🚀 Continuously exploring new tech stacks. <br>
+ 🌐 Proficient in developing and designing websites.
 </div>
 
 ### Languages and Tools
@@ -33,19 +33,26 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
 <a href="http://www.github.com/Shaganashree97" style="font-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Shaganashree97&show=prs_merged,prs_merged_percentage&hide=&count_private=true&title_color=bf11aa&text_color=9e9ede&icon_color=5757cf&theme=transparent&border_color=bf11aa&show_icons=true" alt="Shaganashree's GitHub stats" /></a>
 
-<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=bf11aa&theme=transparent&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&border=bf11aa" /></a>
-  
-</div>
-  
-<a href="https://github.com/Shaganashree97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaganashree97&langs_count=10&title_color=bf11aa&text_color=9e9ede&show_icons=true&icon_color=5757cf&theme=transparent&border_color=bf11aa&locale=en&sideNums=5757cf&custom_title=Top%20%Languages&margin-w=30" alt="Top Languages" /></a>
+<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=bf11aa&theme=transparent&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&border=bf11aa" alt="GitHub Streak" /></a>
 
+<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaganashree97&langs_count=5&title_color=bf11aa&text_color=9e9ede&show_icons=true&icon_color=5757cf&theme=transparent&border_color=bf11aa&locale=en&sideNums=5757cf&custom_title=Top%20Languages" alt="Top Languages" width="35%" /></a>
+
+</div>
+
+### Trophies🏆
   ![Shaganashree97's Trophies](https://github-profile-trophy.vercel.app/?username=Shaganashree97&rank=-B&column=-1&no-frame=false&margin-w=10)
 
 ### Reach out to me💌
-<a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" /></a>
-<a href="https://github.com/Shaganashree97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40" height="40" /></a>
-<a href="https://www.instagram.com/_shag_ana_97_.pl._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" height="40" /></a>
-<a href="https://stackoverflow.com/users/22988628/shaganashree-p-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/shaganashree-pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" /></a>
+<a href="https://github.com/Shaganashree97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub" /></a>
+<a href="https://www.instagram.com/_shag_ana_97_.pl._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" height="40" alt="Instagram" /></a>
+<!--
+<a href="https://stackoverflow.com/users/22988628/shaganashree-p-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="40" height="40"  alt="StackOverflow" /></a>
+-->
+
+### Profile Views
+<img src="https://komarev.com/ghpvc/?username=Shaganashree97&color=bf11aa" alt="Profile Views" />
+
 </div>
 
 <!--
