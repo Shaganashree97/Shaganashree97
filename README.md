@@ -35,7 +35,7 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
 <a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=bf11aa&theme=transparent&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&border=bf11aa" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaganashree97&langs_count=5&title_color=bf11aa&text_color=9e9ede&show_icons=true&icon_color=5757cf&theme=transparent&border_color=bf11aa&locale=en&sideNums=5757cf&custom_title=Top%20Languages" alt="Top Languages" width="35%" /></a>
+<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaganashree97&langs_count=5&title_color=bf11aa&text_color=9e9ede&show_icons=true&icon_color=5757cf&theme=transparent&border_color=bf11aa&locale=en&sideNums=5757cf&custom_title=Top%20Languages" alt="Top Languages" style="width: 40%; max-width: 600px;" /></a>
 
 </div>
 
@@ -50,10 +50,12 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 <a href="https://stackoverflow.com/users/22988628/shaganashree-p-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="40" height="40"  alt="StackOverflow" /></a>
 -->
 
-### Profile Views
+---
+
 <img src="https://komarev.com/ghpvc/?username=Shaganashree97&color=bf11aa" alt="Profile Views" />
 
 </div>
+
 
 <!--
 **Shaganashree97/Shaganashree97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
