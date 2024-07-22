@@ -4,13 +4,13 @@
   
 ## ⭐Web Developer👩🏻‍💻
 
-I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledge and applying it in real-world projects. My fascination with technology and coding started with a deep curiosity about the inner workings of the digital world.
+I'm a 20-year-old ambitious girl, dedicated to expanding my programming knowledge and applying it to real-world projects. My passion for technology and coding started with a deep curiosity about the digital world and how it functions.
 
 ### About Me😇
 <div align="left">
- 🎓 I'm a CSE student at Kumaraguru College of Technology. <br>
- 🚀 Continuously exploring new tech stacks. <br>
- 🌐 Proficient in developing and designing websites.
+ 🎓 Pre-Final Year Computer Science and Engineering Student at Kumaraguru College of Technology. <br>
+ 🚀 Continuously exploring new Tech Stacks. <br>
+ 🌐 Proficient in developing and designing dynamic websites.
 </div>
 
 ### Languages and Tools
@@ -20,6 +20,13 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
  
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="45"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="45"/>
+
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="45"/>
+ 
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="45"/>
+ 
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="45"/>
  
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="45"/>
  
@@ -35,7 +42,7 @@ I'm a 19-year-old ambitious girl, dedicated to expanding my programming knowledg
 
 <a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaganashree97&stroke=bf11aa&theme=transparent&ring=bf11aa&fire=bf11aa&currStreakNum=5757cf&currStreakLabel=b599de&sideNums=5757cf&sideLabels=b599de&dates=b0de99&border=bf11aa" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaganashree97&langs_count=5&title_color=bf11aa&text_color=9e9ede&show_icons=true&icon_color=5757cf&theme=transparent&border_color=bf11aa&locale=en&sideNums=5757cf&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 600px;" /></a>
+<a href="http://www.github.com/Shaganashree97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaganashree97&langs_count=10&title_color=bf11aa&text_color=9e9ede&show_icons=true&icon_color=5757cf&theme=transparent&border_color=bf11aa&locale=en&sideNums=5757cf&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 600px;" /></a>
 
 </div>
 
